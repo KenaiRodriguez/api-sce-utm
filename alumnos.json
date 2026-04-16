@@ -1,0 +1,17 @@
+[
+  {
+    "matricula": "UTM241024TI",
+    "nombre": "Diego Rodriguez",
+    "password": "123"
+  },
+  {
+    "matricula": "54321",
+    "nombre": "Juan Perez",
+    "password": "123"
+  },
+  {
+    "matricula": "98765",
+    "nombre": "Ana Lopez",
+    "password": "123"
+  }
+]
