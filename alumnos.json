@@ -1,17 +1,38 @@
 [
-  {
+{
     "matricula": "UTM241024TI",
+    "password": "123",
     "nombre": "Diego Rodriguez",
-    "password": "123"
+    "carrera": "Desarrollo de Software Multiplataforma",
+    "grado": "6",
+    "grupo": "A",
+    "periodo": "Mayo-Agosto 2026"
   },
-  {
+{
     "matricula": "UTM241025TI",
+    "password": "123",
     "nombre": "Edwin Diaz",
-    "password": "123"
+    "carrera": "Ambientes Virtuales y Negocios Digitales",
+    "grado": "6",
+    "grupo": "A",
+    "periodo": "Mayo-Agosto 2026"
   },
-  {
+{
     "matricula": "UTM241026TI",
-    "nombre": "Mau Isaid",
-    "password": "123"
+    "password": "123",
+    "nombre": "Mau Sanchez",
+    "carrera": "Ambientes Virtuales y Negocios Digitales",
+    "grado": "6",
+    "grupo": "B",
+    "periodo": "Mayo-Agosto 2026"
   }
+  {
+    "matricula": "UTM241027TI",
+    "password": "123",
+    "nombre": "Mane Molina",
+    "carrera": "Desarrollo de software Multiplataforma",
+    "grado": "6",
+    "grupo": "B",
+    "periodo": "Mayo-Agosto 2026"
+  },
 ]
